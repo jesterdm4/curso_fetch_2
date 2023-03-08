@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components';
 
 const inicio = () => {
     return (
@@ -9,10 +10,3 @@ const inicio = () => {
 }
 
 export default inicio
-
-/*
-
-todosPersonajes()
-
-
-*/
