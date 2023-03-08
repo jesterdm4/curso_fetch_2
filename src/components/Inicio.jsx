@@ -1,7 +1,7 @@
 import React from 'react'
 
 const inicio = () => {
-  return (
+    return (
     <>
         inicio
     </>
@@ -9,3 +9,10 @@ const inicio = () => {
 }
 
 export default inicio
+
+/*
+
+todosPersonajes()
+
+
+*/
