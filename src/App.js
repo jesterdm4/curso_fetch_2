@@ -2,6 +2,7 @@ import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Inicio from "./components/Inicio";
 import Personaje from "./components/Personaje";
+
 //ESTO NO ES FETCH ES AXIOS
  
 function App() {
